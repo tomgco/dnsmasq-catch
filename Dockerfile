@@ -1,6 +1,6 @@
 FROM dockerfile/ubuntu
 
-MAINTAINER Panagiotis Moustafellos <pmoust@gmail.com>
+MAINTAINER Tom Gallacher <tomgallacher23@gmail.com>
 
 RUN apt-get update && apt-get install -y dnsmasq dnsutils
 
